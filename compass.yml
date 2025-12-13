@@ -1,0 +1,13 @@
+name: neurabytes.github.io
+id: ari:cloud:compass:d7a6c568-0b4f-4b12-aa39-555f70febc24:component/2c0b9004-3ba7-4605-81c6-f4cb7ab59730/63c38cd9-69e3-4fca-9ebf-c9cc7d3aa7be
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
